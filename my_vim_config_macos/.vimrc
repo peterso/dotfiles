@@ -2,6 +2,9 @@
 " Created by pso on Feb 5, 2025
 " Reference: https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/ 
 
+" Enable system clipboard with vim
+set clipboard+=unnamed
+
 " Set colorscheme
 :colorscheme molokai
 
